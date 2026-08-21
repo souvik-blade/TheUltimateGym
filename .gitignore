@@ -6,7 +6,6 @@
 build/
 .pub-cache/
 .pub/
-pubspec.lock
 
 # IDE
 .idea/
@@ -27,5 +26,4 @@ macos/Flutter/ephemeral/
 macos/Pods/
 linux/flutter/ephemeral/
 windows/flutter/ephemeral/
-web/
 *.g.dart
