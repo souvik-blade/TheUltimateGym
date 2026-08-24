@@ -8,7 +8,7 @@ import '../exercises/exercise_detail_screen.dart';
 import '../exercises/models/exercise.dart';
 import '../exercises/widgets/exercise_image.dart';
 import 'equipment_mapping.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphor_icons/phosphor_icons.dart';
 
 class EquipmentDetailScreen extends StatefulWidget {
   const EquipmentDetailScreen({super.key, required this.item});
